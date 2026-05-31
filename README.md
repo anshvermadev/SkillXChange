@@ -39,7 +39,7 @@
 |------|--------|
 | Mit Gandhi | [@Mit-Gandhi](https://github.com/Mit-Gandhi) |
 | Rishit Srivastava | [@rishitsrivastav](https://github.com/rishitsrivastav) |
-| Ansh Verma | [@verma07ansh](https://github.com/verma07ansh) |
+| Ansh Verma | [@anshvermadev](https://github.com/anshvermadev) |
 
 ---
 
