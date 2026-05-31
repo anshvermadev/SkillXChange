@@ -65,7 +65,7 @@
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/rishitsrivastav/SkillXChange.git
+git clone https://github.com/anshvermadev/SkillXChange.git
 cd SkillXChange
 ```
 
